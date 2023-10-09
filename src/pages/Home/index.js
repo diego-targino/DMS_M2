@@ -39,7 +39,7 @@ export default function Home() {
         hidden={false}
       />
       <View style={styles.header}>
-        <Text style={styles.headerTitle}>Application Title</Text>
+        <Text style={styles.headerTitle}>Book Finder</Text>
       </View>
       <View style={styles.body}>
         <View style={styles.filterBar}>
